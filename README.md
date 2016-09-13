@@ -15,3 +15,4 @@ linux_command list
   * grep -C
   * grep -V
   * grep -E 'condition_1|condition_2'
+  * grep --color
